@@ -1,8 +1,28 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "NikeNike Air MaxNike Retro Nike Unveils the Air",
+      "image": "https://picsum.photos/id/866/200/300",
+      "price": 30
+    },
+    {
+      "id": 1,
+      "title": "NikeNike Air MaxNike Retro Nike Unveils the Air",
+      "image": "https://picsum.photos/id/866/200/300",
+      "price": 30
+    },
+    {
+      "id": 1,
+      "title": "NikeNike Air MaxNike Retro Nike Unveils the Air",
+      "image": "https://picsum.photos/id/866/200/300",
+      "price": 30
+    },
+    {
+      "id": 1,
+      "title": "NikeNike Air MaxNike Retro Nike Unveils the Air",
+      "image": "https://picsum.photos/id/866/200/300",
+      "price": 30
     }
   ],
   "profile": {
