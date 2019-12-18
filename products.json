@@ -1,6 +1,6 @@
 {
-  data: {
-    title: "NikeNike Air MaxNike Retro Nike Unveils the Air",
-    price: 12.99
+  "data": {
+    "title": "NikeNike Air MaxNike Retro Nike Unveils the Air",
+    "price": 12.99
   }
 }
